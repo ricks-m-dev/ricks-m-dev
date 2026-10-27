@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/room.svg" alt="A small pixel-art room at night: a desk with a glowing monitor, a window with the moon, a shelf with a game controller and a sticky note, and a cat on the rug." width="100%" />
+  <img src="room.svg" alt="A small pixel-art room at night: a desk with a glowing monitor, a window with the moon, a shelf with a game controller and a sticky note, and a cat on the rug." width="100%" />
 </p>
 
 <h3 align="center">You wake up inside Ricky Monsales’s GitHub profile.</h3>
